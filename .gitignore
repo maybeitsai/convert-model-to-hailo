@@ -10,3 +10,4 @@ wheels/
 .venv
 
 *directml*
+/data/images
